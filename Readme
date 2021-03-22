@@ -1,0 +1,10 @@
+Pasta css contém o arquivo css
+Pasta img contem as imagens utilizadas 
+Pasta modelos contém o modelo de currículo
+
+
+1) Arquivo Curriculo.sql contém o banco de dados;
+2) conexao.php utilizado para fazer a conexao com o banco;
+3) admin.php arquivo inicial para utilizar todas as funções;
+4) gerarCurriculo.php e salvar.php são responsáveis por colocar os dados no modelo e salvar as informações no banco de dados;
+5) index.php contém o formulário.
